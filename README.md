@@ -1,6 +1,6 @@
 <!-- @format -->
 
-### Hi there 👋
+### <h1>Hi there 👋</h1>
 
 - 🌱 I’m currently learning at Strive-School as Full-Stack Developer
 
