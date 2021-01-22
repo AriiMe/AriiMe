@@ -21,7 +21,7 @@
      <image src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <image src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"> <br><br>
       ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AriiMe&show_icons=true&theme=synthwave) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriiMe&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriiMe&langs_count=8&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
      
 
 <!--
