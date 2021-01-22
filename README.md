@@ -19,7 +19,7 @@
      <image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
      <image src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
      <image src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    <image src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"> <br>
+    <image src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"> <br><br>
       ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AriiMe&show_icons=true&theme=synthwave)
      
 
