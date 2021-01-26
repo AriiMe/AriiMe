@@ -1,6 +1,6 @@
 <!-- @format -->
 
-### <h1>Hi there:godmode:</h1>
+### <h1>Hello there:godmode:</h1>
 
 - 🌱 I’m currently learning at Strive-School as Full-Stack Developer
 
