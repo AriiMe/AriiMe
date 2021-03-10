@@ -1,20 +1,21 @@
 <!-- @format -->
 
 ### <h1>Hello there:godmode:</h1>
+- 🌱 I’m currently learning at Strive-School as Full-Stack Developer
 ```python
 class ari:
-  def __init__(self):
-    self.technologies = {
-            "backend": ["Node.js"],
-            "frontend": ["HTML", "CSS", "Javascript", "React", "Bootstrap"],
-            "databases": ["sequelize", "mongo"],
+  def __init__(info):
+    info.aboutme = {
+            "email": ["arianrazab@yahoo.com"],
+            "personal info": ["Ari", "Razab", "26", "Male"],
+            "location": ["Germany", "Rheinland-Pfalz"],
     }
 ```
-
-- 🌱 I’m currently learning at Strive-School as Full-Stack Developer
-
 - 💬 Feel Free to contact me
-- 📫 How to reach me: arianrazab@yahoo.com
+
+
+
+
 - ⚡ Fun fact: water is wet
 - 🤔 I Work with: <br><br> <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
