@@ -20,8 +20,25 @@
      <image src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
      <image src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <image src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"> <br><br>
+      
+```python
+class ari:
+  def __init__(self):
+    self.technologies = {
+            "backend": ["Node.js"],
+            "frontend": ["HTML", "CSS", "Javascript", "React", "Bootstrap"],
+            "databases": ["sequelize", "mongo"],
+    }
+```
       ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AriiMe&show_icons=true&theme=synthwave) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriiMe&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
+
+<a href="https://github.com/AriiMe">
+  <img src="https://img.shields.io/github/followers/AriiMe">
+</a>
+<a href="https://github.com/AriiMe">
+  <img src="https://img.shields.io/github/stars/AriiMe">
+</a>
 <!--
 <image src="">
 <image src=""> -->
