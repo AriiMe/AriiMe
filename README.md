@@ -8,6 +8,7 @@ class ari:
     info.aboutme = {
             "email": ["arianrazab@yahoo.com"],
             "personal info": ["Ari", "Razab", "26", "Male"],
+            "portfolio": ["https://www.arii.me/"],
             "location": ["Germany", "Rheinland-Pfalz"],
     }
 ```
