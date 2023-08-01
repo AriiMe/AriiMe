@@ -7,7 +7,7 @@ class ari:
   def __init__(info):
     info.aboutme = {
             "email": ["arianrazab@yahoo.com"],
-            "personal info": ["Ari", "Razab", "26", "Male"],
+            "personal info": ["Ari", "Razab", "29", "Male"],
             "portfolio": ["https://www.arii.me/"],
             "location": ["Germany", "Rheinland-Pfalz"],
     }
