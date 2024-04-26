@@ -1,6 +1,6 @@
 <!-- @format -->
 
-### <h1>Hello there:godmode:</h1>
+### <h1>Hello there :godmode: </h1>
 - 🌱 I’m a Full-Stack Developer
 ```python
 class ari:
